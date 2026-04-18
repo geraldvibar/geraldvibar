@@ -6,15 +6,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me:</h2>
 
 ###
 
-<p align="left">🎓 Currently a 3rd year student<br>📚 Learning: HTML, CSS, JavaScript, PHP, C#<br>🎯 Goal: To become a Software Engineer<br>🚀 Continuously improving my problem-solving and coding skills</p>
+<p align="left">I am currently a 3rd year student learning and developing my skills in software development. I am continuously improving my problem-solving abilities and enhancing my programming skills through practice and building projects.</p>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
